@@ -1,0 +1,7 @@
+Hi,
+1. Create a function that takes some input and gives some output. Use args
+and kwargs in this and explain why you used them.
+
+2. Read a file and write the contents to another file
+
+
